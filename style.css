@@ -6,11 +6,20 @@ h1 {
     font-size: 55px;
 }
 
+h2 {
+    font-size: 50px;
+}
+
+.experience-arey {
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+}
+
 .orange-color {
     color: red;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -35,4 +44,20 @@ section {
 
 .top-banner {
     background-image: url(images/);
+}
+
+.experience-item {
+    width;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 40;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#babe -web-developer {
+    border-left: 7px solid tomato;
+}
+
+#full-stack-developer {
+    border-left: 7px green;
 }
